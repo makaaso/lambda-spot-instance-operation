@@ -34,3 +34,6 @@ zip -r ../lambda-spot-instance-operation.zip .
 TAG_NAME : <TAG NAME>
 ```
 
+### see also
+- http://dev.classmethod.jp/cloud/aws/launch-spotblock-with-lambda/
+
